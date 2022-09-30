@@ -12,9 +12,12 @@ Question 3 output
 Question 4 output
 ![Screenshot (557)](https://user-images.githubusercontent.com/86835129/193334661-4524a6fe-eca3-4ca8-abda-2727c411362c.png)
 
+![Screenshot (558)](https://user-images.githubusercontent.com/86835129/193334934-10df8654-1d02-4a2a-b1ad-c69d8acf8842.png)
+
 Question 5 output
-![Screenshot (558)](https://user-images.githubusercontent.com/86835129/193334682-46de9a9b-57d4-43bc-91a8-d5eef4f4348e.png)
+![Screenshot (559)](https://user-images.githubusercontent.com/86835129/193334946-17f5845d-8758-486e-a632-e0a71236d107.png)
 
 Question 6 output
+![Screenshot (560)](https://user-images.githubusercontent.com/86835129/193334966-c6bd0a59-c164-4833-b4c9-64541328013b.png)
 
-![Screenshot (559)](https://user-images.githubusercontent.com/86835129/193334705-7f5bbf34-8c30-45dd-bc87-f128584d6359.png)
+
